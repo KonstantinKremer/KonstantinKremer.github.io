@@ -1,0 +1,9 @@
+{
+  "name": "Konstantin Kremer | Posdtfolio",
+  "short_name": "Konstantin Kremer",
+
+  "start_url": ".",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
